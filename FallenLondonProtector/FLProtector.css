@@ -11,13 +11,6 @@
 /* Modifications made by markemer - https://github.com/markemer */
 @-moz-document domain("fallenlondon.com")
 {
-
-/* DEACTIVATE THE OPTION TO SPEND FATE TO REFILL YOUR DECK */
-button.deck--empty
-{
-    pointer-events: none;
-}
-
 /**************************************************************************/
 /* CARDS (in browser)
 /* Remove "Discard"-button on certain cards in BROWSER-mode
