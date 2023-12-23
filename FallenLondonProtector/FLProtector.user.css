@@ -234,5 +234,9 @@
   {
     display: none;
   }
+  
+.storylet[data-branch-id='19681'] button /* Disable leaving party early "Make your Apologies" */
+  {
+    display: none;
+  } 
 }
-
