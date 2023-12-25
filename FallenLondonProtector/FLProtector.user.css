@@ -60,7 +60,7 @@
 .hand__card-container[data-event-id='99374'] button,  /* An Unsigned Message */
 /*.hand__card-container[data-event-id='99967'] button,  /* A Visit from Slowcake's Amanuensis */
 .hand__card-container[data-event-id='122163'] button, /* A Dream of Blood */
-.hand__card-container[data-event-id='311724'] button,   /* A Dream of Roses */
+/*.hand__card-container[data-event-id='311724'] button,   /* A Dream of Roses */
 .hand__card-container[data-event-id='343400'] button    /* Your very own Hellworm */
   {
     display: none;
