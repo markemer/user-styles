@@ -51,11 +51,11 @@
 /*.hand__card-container[data-event-id='18166'] button,  /* A Really Nice Haircut */
 /*.hand__card-container[data-event-id='18167'] button,  /* The Battle Hymn of the Drownies */
 .hand__card-container[data-event-id='18168'] button,  /* The Skin of the Bazaar */
-/*.hand__card-container[data-event-id='19045'] button,  /* A presumtuous little opportunity */
+.hand__card-container[data-event-id='19045'] button,  /* A presumtuous little opportunity */
 /*.hand__card-container[data-event-id='19561'] button,  /* A Polite Invitation */
 /*.hand__card-container[data-event-id='20230'] button,  /* An implausible penance */
 /*.hand__card-container[data-event-id='21260'] button,  /* Taciturn Mynah (gives Docks-favours) */
-.hand__card-container[data-event-id='21762'] button,  /* A Visit */
+/*.hand__card-container[data-event-id='21762'] button,  /* A Visit */
 /*.hand__card-container[data-event-id='22408'] button,  /* The Neath's Mysteries */
 .hand__card-container[data-event-id='99374'] button,  /* An Unsigned Message */
 /*.hand__card-container[data-event-id='99967'] button,  /* A Visit from Slowcake's Amanuensis */
@@ -106,11 +106,11 @@
 /*.branch[data-event-id='18166'] .buttonlet-delete,  /* A Really Nice Haircut */
 /*.branch[data-event-id='18167'] .buttonlet-delete,  /* The Battle Hymn of the Drownies */
 .branch[data-event-id='18168'] .buttonlet-delete,  /* The Skin of the Bazaar */
-/*.branch[data-event-id='19045'] .buttonlet-delete,  /* A presumtuous little opportunity */
+.branch[data-event-id='19045'] .buttonlet-delete,  /* A presumtuous little opportunity */
 /*.branch[data-event-id='19561'] .buttonlet-delete,  /* A Polite Invitation */
 /*.branch[data-event-id='20230'] .buttonlet-delete,  /* An implausible penance */
 /*.branch[data-event-id='21260'] .buttonlet-delete,  /* Taciturn Mynah (gives Docks-favours) */
-.branch[data-event-id='21762'] .buttonlet-delete,  /* A Visit */
+/*.branch[data-event-id='21762'] .buttonlet-delete,  /* A Visit */
 /*.branch[data-event-id='22408'] .buttonlet-delete,  /* The Neath's Mysteries */
 .branch[data-event-id='99374'] .buttonlet-delete,  /* An Unsigned Message */
 /*.branch[data-event-id='99967'] .buttonlet-delete,  /* A Visit from Slowcake's Amanuensis */
@@ -197,7 +197,7 @@
 .branch[data-branch-id='6787'] button,   /* Criminals: Consult with a master thief */
 .branch[data-branch-id='6789'] button,   /* Docks: Fencing lessons with a Dashing Captain */
 .branch[data-branch-id='6791'] button,   /* Bohemians: Take tea with a Reclusive Novelist */
-.branch[data-branch-id='6793'] button,   /* Hell: Speak with a senior deviless */
+/* .branch[data-branch-id='6793'] button,   /* Hell: Speak with a senior deviless */
 .branch[data-branch-id='6796'] button,   /* Revolutionaries: And now... bombs! */
 .branch[data-branch-id='6798'] button,   /* Urchins: Out you go, longshanks */
 .branch[data-branch-id='6800'] button,   /* Church: Attend a private lecture given by the Bishop of Southwark */
