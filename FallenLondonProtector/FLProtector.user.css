@@ -230,7 +230,8 @@
 .branch[data-branch-id='251811'] button,  /* Get rid of your current ship */
 
 /* Mark's Personal Additions */
-.branch[data-branch-id='120916'] button   /* Disable: Rescue a certain soul from the Brass Embassy */
+.branch[data-branch-id='120916'] button,   /* Disable: Rescue a certain soul from the Brass Embassy */
+.branch[data-branch-id='250929'] button    /* Disable: Dismantle your front */
   {
     display: none;
   }
